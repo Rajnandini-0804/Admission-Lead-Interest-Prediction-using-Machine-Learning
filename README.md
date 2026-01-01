@@ -33,7 +33,7 @@ in taking admission.
 - `Admission Leads Interest Analysis (1).ipynb`  
   → Data cleaning and preparation notebook
 
-- `Interactivee_ML_Admission_Leads.ipynb 
+- `Interactivee_ML_Admission_Leads.ipynb                                                                                                   
   → Machine learning model and prediction logic
 
 ## ✅ Conclusion
